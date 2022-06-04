@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nayana!
-- 👀 I’m fascinated in all things-Frontend & interested in building Awesome Websites! :)
+- 👀 I’m fascinated by all things-Frontend & interested in building Awesome Websites! :)
 - 🌱 I’m currently working on implementing the skills I've acquired so far.
 - 💞️ I’m looking to collaborate on open-source projects as a front-end developer.
 - 📫 How to reach me- nayanas7667@gmail.com
