@@ -7,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nk7608](https://github.com/nk7608)
 
-- 📝 I regularly write articles on [https://medium.com/@nayanak872](https://medium.com/@nayanak872)
+- 📝 I write articles on [https://medium.com/@nayanak872](https://medium.com/@nayanak872)
 
-- 💬 Ask me about **JavaScript, ReactJS, Firebase.....you get it, the frontend stuff!**
+- 💬 Ask me about **JavaScript, ReactJS, Firebase.....you get it, the Frontend stuff!**
 
 - 📫 How to reach me **nayanak872@gmail.com**
 
-- ⚡ Fun fact **I still believe in Superheroes**
+- ⚡ Fun fact **I still believe in Superheroes & Yoga**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
