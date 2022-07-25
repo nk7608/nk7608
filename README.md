@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ultraverse](https://github.com/nk7608/Nayana-internship)
 
-- 👨‍💻 All of my projects are available at [https://github.com/nk7608](https://github.com/nk7608)
+- 👨‍💻 All of my projects are available at [https://nayana-kumari.vercel.app/](https://nayana-kumari.vercel.app)
 
 - 📝 I write articles on [https://medium.com/@nayanak872](https://medium.com/@nayanak872)
 
