@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nayana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/unfollownayana" target="blank"><img src="https://img.shields.io/twitter/follow/unfollownayana?logo=twitter&style=for-the-badge" alt="unfollownayana" /></a> </p>
+<p align="left"> <a href="https://twitter.com/uncommonnayana" target="blank"><img src="https://img.shields.io/twitter/follow/unfollownayana?logo=twitter&style=for-the-badge" alt="unfollownayana" /></a> </p>
 
 - 🔭 I’m currently working on [Ultraverse](https://github.com/nk7608/Nayana-internship)
 
 - 👨‍💻 All of my projects are available at [https://nayana-kumari.vercel.app/](https://nayana-kumari.vercel.app)
 
-- 📝 I write articles on [https://medium.com/@nayanak872](https://medium.com/@nayanak872)
+- 📝 I write articles on [https://medium.com/@nayanak872](https://medium.com/@nayanak872) and [https://nayana.hashnode.dev/](https://nayana.hashnode.dev)
 
 - 💬 Ask me about **JavaScript, ReactJS, Firebase.....you get it, the Frontend stuff!**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/unfollownayana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="unfollownayana" height="30" width="40" /></a>
+<a href="https://twitter.com/unfollownayana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uncommonnayana" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nayana k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayana k" height="30" width="40" /></a>
 <a href="https://medium.com/@nayanak872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nayanak872" height="30" width="40" /></a>
 </p>
