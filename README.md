@@ -13,5 +13,5 @@
 
 - 📫 How to reach me **nayanak872@gmail.com**
 
-- ⚡ Fun fact **I still believe in Superheroes & Yoga**
+- ⚡ Fun fact: **I still believe in Superheroes & Yoga**
 
