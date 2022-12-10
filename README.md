@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/uncommonnayana" target="blank"><img src="https://img.shields.io/twitter/follow/uncommonnayana?logo=twitter&style=for-the-badge" alt="uncommonnayana" /></a> </p>
 
-- 🔭 I’m currently working on [Ultraverse](https://github.com/nk7608/Nayana-internship)
+- 🔭 I’m currently working on [Ultraverse](https://nft-marketplacee.web.app/)
 
 - 👨‍💻 All of my projects are available at [https://nayana-kumari.vercel.app/](https://nayana-kumari.vercel.app)
 
