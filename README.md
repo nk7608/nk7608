@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayana</h1>
 <h3 align="center"><strong>I'm a Web Developer & a Product Manager</strong></h3>
-<p align="left"> <a href="https://twitter.com/uncommonnayana" target="blank"><img src="https://img.shields.io/twitter/follow/uncommonnayana?logo=twitter&style=for-the-badge" alt="uncommonnayana" /></a> </p>
-<p align="left"> <a href="https://linkedin.com/in/nayana-k-955411170/" target="blank"><img src="https://img.shields.io/twitter/follow/uncommonnayana?logo=linkedin&style=for-the-badge" alt="uncommonnayana" /></a> </p>
 
 - 🔭 I’m currently exploring Web3 Technologies
 - 👯 I also provide product and design solutions as a tech person
